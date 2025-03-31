@@ -1,0 +1,165 @@
+Subject: Data Structures & Algorithms
+Which data structure follows LIFO?
+A) Queue
+B) Stack
+C) Array
+D) Linked List
+B
+
+What is the time complexity of binary search?
+A) O(n)
+B) O(log n)
+C) O(n log n)
+D) O(1)
+B
+
+Which sorting algorithm has the best average-case time complexity?
+A) Merge Sort
+B) Quick Sort
+C) Bubble Sort
+D) Insertion Sort
+B
+
+Which data structure uses FIFO?
+A) Stack
+B) Queue
+C) Tree
+D) Graph
+B
+
+Which traversal method is used in Binary Search Trees?
+A) Inorder
+B) Preorder
+C) Postorder
+D) Level Order
+A
+
+What is the worst-case time complexity of bubble sort?
+A) O(n)
+B) O(n log n)
+C) O(n^2)
+D) O(1)
+C
+
+Subject: Networks
+What does IP stand for?
+A) Internet Protocol
+B) Internal Process
+C) Internet Provider
+D) Integrated Program
+A
+
+What is the default port number for HTTP?
+A) 21
+B) 80
+C) 443
+D) 25
+B
+
+Which device is used to connect multiple networks together?
+A) Hub
+B) Switch
+C) Router
+D) Repeater
+C
+
+What layer of the OSI model does a switch operate at?
+A) Network
+B) Data Link
+C) Transport
+D) Physical
+B
+
+Subject: Operating System
+Which of the following is an operating system?
+A) Windows
+B) Python
+C) Google Chrome
+D) HTML
+A
+
+What is virtual memory?
+A) Extra RAM installed in a system
+B) Memory created on the hard disk to act as RAM
+C) A memory chip inside the CPU
+D) A type of ROM
+B
+
+Which memory is faster?
+A) RAM
+B) Cache
+C) Hard Disk
+D) SSD
+B
+
+What is the purpose of an OS?
+A) Manage hardware & software resources
+B) Run only web browsers
+C) Connect to WiFi
+D) Convert code into machine language
+A
+
+Subject: RDBMS
+Which SQL command is used to retrieve data?
+A) INSERT
+B) UPDATE
+C) DELETE
+D) SELECT
+D
+
+Which type of key uniquely identifies each record in a table?
+A) Foreign Key
+B) Primary Key
+C) Composite Key
+D) Candidate Key
+B
+
+What does ACID stand for in databases?
+A) Atomicity, Consistency, Isolation, Durability
+B) Association, Connection, Integrity, Durability
+C) Automated, Consistent, Indexed, Distributed
+D) Attribute, Constraint, Identity, Dependency
+A
+
+Which normal form eliminates partial dependencies?
+A) 1NF
+B) 2NF
+C) 3NF
+D) BCNF
+B
+
+Subject: Aptitude
+What is 25% of 80?
+A) 15
+B) 20
+C) 25
+D) 30
+B
+
+What is the next number in the series: 2, 4, 8, 16, __?
+A) 24
+B) 32
+C) 48
+D) 64
+B
+
+A train travels 60 km in 1 hour. What is its speed?
+A) 30 km/h
+B) 40 km/h
+C) 50 km/h
+D) 60 km/h
+D
+
+Which number is a prime number?
+A) 21
+B) 25
+C) 29
+D) 35
+C
+
+What is the square root of 144?
+A) 10
+B) 12
+C) 14
+D) 16
+B

@@ -1,0 +1,7 @@
+shine|Aptitude|55.5556
+shine|Networks|50
+shine|RDBMS|50
+shine|Networks|60
+shine|RDBMS|60
+navneet|Networks|25
+shine|Networks|75
